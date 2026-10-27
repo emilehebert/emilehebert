@@ -16,4 +16,4 @@ HTML · CSS · JavaScript · Figma · Suite Adobe · Unity · Blender
   [Code source](github.com/emilehebert/La-Porte)
 
 ## 📫 Me joindre
-[LinkedIn](linkedin.com/in/%C3%A9mile-h%C3%A9bert-9b5849308) · [Portfolio](emilehebert.ca)
+[LinkedIn](linkedin.com/in/%C3%A9mile-h%C3%A9bert-9b5849308) · [Portfolio](https://emilehebert.ca/)
