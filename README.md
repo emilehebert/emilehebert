@@ -12,8 +12,6 @@ HTML · CSS · JavaScript · Figma · Suite Adobe · Unity · Blender
   [Voir le site](https://emilehebert.ca/) · [Code source](github.com/emilehebert/portfolio)
 - **[FitGen]** — Générateur de tenus personnalisable.
   [Code source](github.com/emilehebert/FitGen)
-- **[La Porte]** — Jeu Unity pour un projet en équipe.
-  [Code source](github.com/emilehebert/La-Porte)
 
 ## 📫 Me joindre
-[LinkedIn](linkedin.com/in/%C3%A9mile-h%C3%A9bert-9b5849308) · [Portfolio](https://emilehebert.ca/)
+[LinkedIn](https://www.linkedin.com/in/%C3%A9mile-h%C3%A9bert-9b5849308/) · [Portfolio](https://emilehebert.ca/)
