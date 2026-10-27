@@ -9,7 +9,7 @@ HTML · CSS · JavaScript · Figma · Suite Adobe · Unity · Blender
 - **[House Breach]** — Jeu d'horreur en équipe en développement.
   [Code source](https://github.com/emilehebert/House-Breach)
 - **[Portfolio]** — Le développement web de mon portfolio personnel.
-  [Voir le site](emilehebert.ca) · [Code source](github.com/emilehebert/portfolio)
+  [Voir le site](https://emilehebert.ca/) · [Code source](github.com/emilehebert/portfolio)
 - **[FitGen]** — Générateur de tenus personnalisable.
   [Code source](github.com/emilehebert/FitGen)
 - **[La Porte]** — Jeu Unity pour un projet en équipe.
