@@ -11,7 +11,7 @@ HTML · CSS · JavaScript · Figma · Suite Adobe · Unity · Blender
 - **[Portfolio]** — Le développement web de mon portfolio personnel.
   [Voir le site](https://emilehebert.ca/) · [Code source](github.com/emilehebert/portfolio)
 - **[FitGen]** — Générateur de tenus personnalisable.
-  [Code source](github.com/emilehebert/FitGen)
+  [Code source](https://github.com/emilehebert/fitgenerator)
 
 ## 📫 Me joindre
 [LinkedIn](https://www.linkedin.com/in/%C3%A9mile-h%C3%A9bert-9b5849308/) · [Portfolio](https://emilehebert.ca/)
